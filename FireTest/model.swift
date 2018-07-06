@@ -7,3 +7,11 @@
 //
 
 import Foundation
+
+class Model  {
+    func sayHello() {
+        print("Hello world!")
+        
+    }
+}
+
